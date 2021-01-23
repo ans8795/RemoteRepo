@@ -6,5 +6,5 @@ def sub(x,y):
     return (x-y)
 print(sub(8-2))
 
-def mul(x,y):
+def div(x,y):
     return (x*y)
